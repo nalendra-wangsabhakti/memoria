@@ -437,3 +437,13 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
+
+/**PLAYLIST**/
+.playlist{
+    width: 50%;
+}
+@media (max-width: 991.98px) {
+    .playlist{
+        width: 90%;
+    }
+}
